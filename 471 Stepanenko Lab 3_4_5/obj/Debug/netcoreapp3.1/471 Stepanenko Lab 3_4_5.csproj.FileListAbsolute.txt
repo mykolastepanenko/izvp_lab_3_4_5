@@ -13,3 +13,4 @@ C:\Users\USER\source\repos\471 Stepanenko Lab 3_4_5\471 Stepanenko Lab 3_4_5\obj
 C:\Users\USER\source\repos\471 Stepanenko Lab 3_4_5\471 Stepanenko Lab 3_4_5\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 3_4_5.dll
 C:\Users\USER\source\repos\471 Stepanenko Lab 3_4_5\471 Stepanenko Lab 3_4_5\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 3_4_5.pdb
 C:\Users\USER\source\repos\471 Stepanenko Lab 3_4_5\471 Stepanenko Lab 3_4_5\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 3_4_5.genruntimeconfig.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 3_4_5\471 Stepanenko Lab 3_4_5\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_3_4_5.Properties.Resources.resources
